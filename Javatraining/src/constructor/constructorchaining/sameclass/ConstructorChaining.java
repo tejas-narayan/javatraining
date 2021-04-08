@@ -6,7 +6,7 @@ public class ConstructorChaining {
 		
 		
 		Xworkz xworkz = new Xworkz();
-		Xworkz xworkz1 = new Xworkz("Bangalore",100);
+		Xworkz xworkz1 = new Xworkz("Mysore",100);
 		
 		System.out.println(xworkz.location);
 		System.out.println(xworkz.noOfStudents);

@@ -1,6 +1,6 @@
 package constructor.parameterizedconstructor;
 
-public class ParameterizedContract {
+public class ParameterizedConstruct {
 
 	public static void main(String[] args) {
 		
